@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+
+caption{
+    font-size: 20px;
+}
+body{
+    font-family: '游明朝';
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+table,th,td{
+    border: solid 2px black;
+    border-collapse: collapse;
+}
+th,td{
+    padding: 20px;
+}
+table{
+    background-color:antiquewhite;
+}
+thead{
+    background-color: blanchedalmond;
+}
